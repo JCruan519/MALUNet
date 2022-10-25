@@ -33,4 +33,4 @@ python train.py
 ```
 
 **3. Obtain the outputs.**
-After trianing, you could obtain the outputs in './results/'
+- After trianing, you could obtain the outputs in './results/'
