@@ -6,7 +6,7 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
 - pytorch 1.8.0
 - torchvision 0.8.0
 
-**1. Prepare the dataset and our weights.**
+**1. Prepare the dataset.**
 
 - ISIC17 and ISIC18 dataset can be found [here](https://challenge.isic-archive.com/data/). 
 
@@ -23,3 +23,11 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
       - .png
     - masks
       - .png
+
+**2. Train the MALUNet.**
+```
+cd MALUNet
+```
+```
+python train.py
+```
