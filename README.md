@@ -11,3 +11,15 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
 - ISIC17 and ISIC18 dataset can be found [here](https://challenge.isic-archive.com/data/). 
 
 - After downloading the datasets, you are supposed to put them into './data/isic17/' and './data/isic18/', and the file format reference is as follows.
+- './data/isic17/'
+  - train
+    - images
+      - .png
+    - masks
+      - .png
+- './data/isic18/'
+  - train
+    - images
+      - .png
+    - masks
+      - .png
