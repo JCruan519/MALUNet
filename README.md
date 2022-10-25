@@ -18,7 +18,7 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
       - .png
     - masks
       - .png
-  - test
+  - val
     - images
       - .png
     - masks
