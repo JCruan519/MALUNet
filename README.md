@@ -4,7 +4,7 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
 **0. Main Environments**
 - python 3.8
 - pytorch 1.8.0
-- torchvision 0.8.0
+- torchvision 0.9.0
 
 **1. Prepare the dataset.**
 
